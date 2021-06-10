@@ -1,2 +1,2 @@
 # Webpage
-https://gucoo.github.io/Webpage/index.html
+https://gucoo.github.io/Webpage/blob/main/index.html
