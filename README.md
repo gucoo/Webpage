@@ -1,2 +1,3 @@
 # Webpage
-https://pages.github.com/gucoo/Webpage/index.html
+https://gucoo.github.io/Webpage/index.html
+http(s)://<username>.github.io/<repository>
