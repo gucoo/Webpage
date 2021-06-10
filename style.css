@@ -1,0 +1,15 @@
+body {
+    background-color: #CC0000;
+}
+
+.img {
+	border: 2px solid #008000;
+	border-style: outset;
+	max-width: 200px;
+	max-height:250px;
+    
+}
+
+#club {
+    border: 2px solid #FA8072;
+}
